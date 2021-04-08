@@ -1,0 +1,197 @@
+[
+    {
+        "name": "Gartenstra\u00dfe",
+        "directory": "100034978",
+        "start": "2016-05-25T00:00:00+0200",
+        "channels": [
+            [
+                100034978,
+                "Gartenstra\u00dfe"
+            ],
+            [
+                101034978,
+                "Gartenstra\u00dfe einw\u00e4rts"
+            ],
+            [
+                102034978,
+                "Gartenstra\u00dfe ausw\u00e4rts"
+            ]
+        ]
+    },
+    {
+        "name": "Hafenstra\u00dfe",
+        "directory": "100031300",
+        "start": "2017-11-30T00:00:00+0100",
+        "channels": [
+            [
+                100031300,
+                "Hafenstra\u00dfe"
+            ],
+            [
+                101031300,
+                "Channel 1 IN"
+            ],
+            [
+                102031300,
+                "Channel 2 OUT"
+            ]
+        ]
+    },
+    {
+        "name": "Hammer Stra\u00dfe",
+        "directory": "100034980",
+        "start": "2016-07-22T05:00:00+0200",
+        "channels": [
+            [
+                100034980,
+                "Hammer Stra\u00dfe"
+            ],
+            [
+                101034980,
+                "Hammer Stra\u00dfe stadteinw\u00e4rts"
+            ],
+            [
+                102034980,
+                "Hammer Stra\u00dfe stadtausw\u00e4rts"
+            ]
+        ]
+    },
+    {
+        "name": "H\u00fcfferstra\u00dfe",
+        "directory": "100034982",
+        "start": "2016-10-25T00:00:00+0200",
+        "channels": [
+            [
+                100034982,
+                "H\u00fcfferstra\u00dfe"
+            ],
+            [
+                101034982,
+                "H\u00fcfferstra\u00dfe stadteinw\u00e4rts"
+            ],
+            [
+                102034982,
+                "H\u00fcfferstra\u00dfe stadtausw\u00e4rts"
+            ]
+        ]
+    },
+    {
+        "name": "Kanalpromenade",
+        "directory": "100053305",
+        "start": "2019-07-03T02:00:00+0200",
+        "channels": [
+            [
+                100053305,
+                "Kanalpromenade"
+            ],
+            [
+                101053305,
+                "Kanalpromenade Fahrr\u00e4der Richtung Osttor"
+            ],
+            [
+                102053305,
+                "Kanalpromenade Fahrr\u00e4der Richtung Zentrum"
+            ],
+            [
+                103053305,
+                "Kanalpromenade Fahrr\u00e4der Richtung Osttor"
+            ],
+            [
+                104053305,
+                "Kanalpromenade Fahrr\u00e4der Richtung Zentrum"
+            ]
+        ]
+    },
+    {
+        "name": "Neutor",
+        "directory": "100035541",
+        "start": "2013-06-01T00:00:00+0200",
+        "channels": [
+            [
+                100035541,
+                "Neutor"
+            ],
+            [
+                101035541,
+                "Neutor stadteinw\u00e4rts"
+            ],
+            [
+                102035541,
+                "Neutor stadtausw\u00e4rts"
+            ]
+        ]
+    },
+    {
+        "name": "Promenade",
+        "directory": "100031297",
+        "start": "2016-05-25T16:00:00+0200",
+        "channels": [
+            [
+                100031297,
+                "Promenade"
+            ],
+            [
+                101031297,
+                "Promenade Radfahrer FR Mauritztor"
+            ],
+            [
+                102031297,
+                "Promenade Radfahrer FR Salzstra\u00dfe"
+            ],
+            [
+                103031297,
+                "Promenade Radfahrer FR Mauritztor"
+            ],
+            [
+                104031297,
+                "Promenade Radfahrer FR Salzstra\u00dfe"
+            ],
+            [
+                105031297,
+                "Promenade Radfahrer FR Mauritztor"
+            ],
+            [
+                106031297,
+                "Promenade Radfahrer FR Salzstra\u00dfe"
+            ]
+        ]
+    },
+    {
+        "name": "Warendorfer Stra\u00dfe",
+        "directory": "100034983",
+        "start": "2016-05-13T00:00:00+0200",
+        "channels": [
+            [
+                100034983,
+                "Warendorfer Stra\u00dfe"
+            ],
+            [
+                101034983,
+                "Warendorfer Stra\u00dfe stadteinw\u00e4rts"
+            ],
+            [
+                102034983,
+                "Warendorfer Stra\u00dfe stadtausw\u00e4rts"
+            ]
+        ]
+    },
+    {
+        "name": "Weseler Stra\u00dfe",
+        "directory": "100034981",
+        "start": "2016-07-11T05:00:00+0200",
+        "channels": [
+            [
+                100034981,
+                "Weseler Stra\u00dfe"
+            ],
+            [
+                101034981,
+                "Weseler Stra\u00dfe stadteinw\u00e4rts"
+            ],
+            [
+                102034981,
+                "Weseler Stra\u00dfe stadtausw\u00e4rts"
+            ]
+        ]
+    }
+]
