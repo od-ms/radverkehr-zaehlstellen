@@ -2,7 +2,7 @@
     {
         "name": "Gartenstra\u00dfe",
         "directory": "100034978",
-        "start": "2016-05-25T00:00:00+0200",
+        "start": 2019,
         "channels": [
             [
                 100034978,
@@ -21,7 +21,7 @@
     {
         "name": "Hafenstra\u00dfe",
         "directory": "100031300",
-        "start": "2017-11-30T00:00:00+0100",
+        "start": 2020,
         "channels": [
             [
                 100031300,
@@ -40,7 +40,7 @@
     {
         "name": "Hammer Stra\u00dfe",
         "directory": "100034980",
-        "start": "2016-07-22T05:00:00+0200",
+        "start": 2019,
         "channels": [
             [
                 100034980,
@@ -59,7 +59,7 @@
     {
         "name": "H\u00fcfferstra\u00dfe",
         "directory": "100034982",
-        "start": "2016-10-25T00:00:00+0200",
+        "start": 2019,
         "channels": [
             [
                 100034982,
@@ -78,7 +78,7 @@
     {
         "name": "Kanalpromenade",
         "directory": "100053305",
-        "start": "2019-07-03T02:00:00+0200",
+        "start": 2019,
         "channels": [
             [
                 100053305,
@@ -105,7 +105,7 @@
     {
         "name": "Neutor",
         "directory": "100035541",
-        "start": "2013-06-01T00:00:00+0200",
+        "start": 2019,
         "channels": [
             [
                 100035541,
@@ -124,7 +124,7 @@
     {
         "name": "Promenade",
         "directory": "100031297",
-        "start": "2016-05-25T16:00:00+0200",
+        "start": 2019,
         "channels": [
             [
                 100031297,
@@ -159,7 +159,7 @@
     {
         "name": "Warendorfer Stra\u00dfe",
         "directory": "100034983",
-        "start": "2016-05-13T00:00:00+0200",
+        "start": 2019,
         "channels": [
             [
                 100034983,
@@ -178,7 +178,7 @@
     {
         "name": "Weseler Stra\u00dfe",
         "directory": "100034981",
-        "start": "2016-07-11T05:00:00+0200",
+        "start": 2019,
         "channels": [
             [
                 100034981,
