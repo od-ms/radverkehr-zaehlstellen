@@ -1,8 +1,65 @@
 [
     {
+        "name": "Bismarckallee",
+        "directory": "300038855",
+        "start": 2023,
+        "channels": [
+            [
+                300038855,
+                "Bismarckallee"
+            ],
+            [
+                353420516,
+                "Bismarckallee Fahrr\u00e4der IN"
+            ],
+            [
+                353420517,
+                "Bismarckallee Fahrr\u00e4der OUT"
+            ]
+        ]
+    },
+    {
+        "name": "Bohlweg",
+        "directory": "300037926",
+        "start": 2023,
+        "channels": [
+            [
+                300037926,
+                "Bohlweg"
+            ],
+            [
+                353413831,
+                "Bohlweg [Bike Stadteinw\u00e4rts]"
+            ],
+            [
+                353413832,
+                "Bohlweg [Bike Stadtausw\u00e4rts]"
+            ]
+        ]
+    },
+    {
+        "name": "Coesfelder Kreuz",
+        "directory": "300039328",
+        "start": 2023,
+        "channels": [
+            [
+                300039328,
+                "Coesfelder Kreuz"
+            ],
+            [
+                353425081,
+                "Coesfelder Kreuz Stadteinw\u00e4rts"
+            ],
+            [
+                353425082,
+                "Coesfelder Kreuz Stadtausw\u00e4rts"
+            ]
+        ]
+    },
+    {
         "name": "Gartenstra\u00dfe",
         "directory": "100034978",
-        "start": 2019,
+        "start": 2023,
         "channels": [
             [
                 100034978,
@@ -19,6 +76,79 @@
         ]
     },
     {
+        "name": "Gasselstiege",
+        "directory": "300037931",
+        "start": 2023,
+        "channels": [
+            [
+                300037931,
+                "Gasselstiege"
+            ],
+            [
+                353413846,
+                "Gasselstiege Fahrr\u00e4der Stadteinw\u00e4rts"
+            ],
+            [
+                353413847,
+                "Gasselstiege Fahrr\u00e4der Stadtausw\u00e4rts"
+            ],
+            [
+                353426663,
+                "Gasselstiege Fahrr\u00e4der Stadteinw\u00e4rts"
+            ],
+            [
+                353426665,
+                "Gasselstiege Fahrr\u00e4der Stadteinw\u00e4rts"
+            ],
+            [
+                353426666,
+                "Gasselstiege Fahrr\u00e4der Stadtausw\u00e4rts"
+            ],
+            [
+                353426668,
+                "Gasselstiege Fahrr\u00e4der Stadtausw\u00e4rts"
+            ]
+        ]
+    },
+    {
+        "name": "Goldstra\u00dfe",
+        "directory": "300037925",
+        "start": 2023,
+        "channels": [
+            [
+                300037925,
+                "Goldstra\u00dfe"
+            ],
+            [
+                353413828,
+                "Goldstra\u00dfe [Bike Stadteinw\u00e4rts]"
+            ],
+            [
+                353413829,
+                "Goldstra\u00dfe [Bike Stadtausw\u00e4rts]"
+            ]
+        ]
+    },
+    {
+        "name": "Grevener Stra\u00dfe",
+        "directory": "300039331",
+        "start": 2023,
+        "channels": [
+            [
+                300039331,
+                "Grevener Stra\u00dfe"
+            ],
+            [
+                353425091,
+                "Grevener Stra\u00dfe Formel - Fahrr\u00e4der Stadteinw\u00e4rts"
+            ],
+            [
+                353425097,
+                "Grevener Stra\u00dfe Formel- Fahrr\u00e4der Stadtausw\u00e4rts"
+            ]
+        ]
+    },
+    {
         "name": "Hafenstra\u00dfe",
         "directory": "100031300",
         "start": 2020,
@@ -29,18 +159,18 @@
             ],
             [
                 101031300,
-                "Channel 1 IN"
+                "Hafenstra\u00dfe Fahrr\u00e4der IN"
             ],
             [
                 102031300,
-                "Channel 2 OUT"
+                "Hafenstra\u00dfe Fahrr\u00e4der OUT"
             ]
         ]
     },
     {
         "name": "Hammer Stra\u00dfe",
         "directory": "100034980",
-        "start": 2019,
+        "start": 2023,
         "channels": [
             [
                 100034980,
@@ -59,7 +189,7 @@
     {
         "name": "H\u00fcfferstra\u00dfe",
         "directory": "100034982",
-        "start": 2019,
+        "start": 2023,
         "channels": [
             [
                 100034982,
@@ -76,36 +206,152 @@
         ]
     },
     {
-        "name": "Kanalpromenade",
+        "name": "Kanalpromenade, Abschnitt 1 (Dingstiege)",
+        "directory": "300037544",
+        "start": 2023,
+        "channels": [
+            [
+                300037544,
+                "Kanalpromenade, Abschnitt 1 (Dingstiege)"
+            ],
+            [
+                353410966,
+                "Kanalpromenade, Abschnitt 1 (Dingstiege) Fahrr\u00e4der IN"
+            ],
+            [
+                353410967,
+                "Kanalpromenade, Abschnitt 1 (Dingstiege) Fahrr\u00e4der OUT"
+            ],
+            [
+                353426657,
+                "Kanalpromenade, Abschnitt 1 (Dingstiege) [Bike IN]"
+            ],
+            [
+                353426659,
+                "Kanalpromenade, Abschnitt 1 (Dingstiege) [Bike IN]"
+            ],
+            [
+                353426660,
+                "Kanalpromenade, Abschnitt 1 (Dingstiege) [Bike OUT]"
+            ],
+            [
+                353426662,
+                "Kanalpromenade, Abschnitt 1 (Dingstiege) [Bike OUT]"
+            ]
+        ]
+    },
+    {
+        "name": "Kanalpromenade, Abschnitt 5",
         "directory": "100053305",
-        "start": 2019,
+        "start": 2023,
         "channels": [
             [
                 100053305,
-                "Kanalpromenade"
+                "Kanalpromenade, Abschnitt 5"
             ],
             [
                 101053305,
-                "Kanalpromenade Fahrr\u00e4der Richtung Osttor"
+                "Kanalpromenade, Abschnitt 5 Fahrr\u00e4der Richtung Osttor"
             ],
             [
                 102053305,
-                "Kanalpromenade Fahrr\u00e4der Richtung Zentrum"
+                "Kanalpromenade, Abschnitt 5 Fahrr\u00e4der Richtung Zentrum"
             ],
             [
                 103053305,
-                "Kanalpromenade Fahrr\u00e4der Richtung Osttor"
+                "Kanalpromenade, Abschnitt 5 Fahrr\u00e4der Richtung Osttor"
             ],
             [
                 104053305,
-                "Kanalpromenade Fahrr\u00e4der Richtung Zentrum"
+                "Kanalpromenade, Abschnitt 5 Fahrr\u00e4der Richtung Zentrum"
+            ],
+            [
+                353306596,
+                "Kanalpromenade, Abschnitt 5 Fahrr\u00e4der Richtung Osttor"
+            ],
+            [
+                353306597,
+                "Kanalpromenade, Abschnitt 5 Fahrr\u00e4der Richtung Zentrum"
+            ]
+        ]
+    },
+    {
+        "name": "Kanalpromenade, Abschnitt 6",
+        "directory": "300037936",
+        "start": 2023,
+        "channels": [
+            [
+                300037936,
+                "Kanalpromenade, Abschnitt 6"
+            ],
+            [
+                353413873,
+                "Kanalpromenade, Abschnitt 6 Fahrr\u00e4der Richtung M\u00fcnster"
+            ],
+            [
+                353413874,
+                "Kanalpromenade, Abschnitt 6 Fahrr\u00e4der Richtung Weg von M\u00fcnster"
+            ],
+            [
+                353426355,
+                "Kanalpromenade, Abschnitt 6 [Bike IN]"
+            ],
+            [
+                353426357,
+                "Kanalpromenade, Abschnitt 6 [Bike IN]"
+            ],
+            [
+                353426358,
+                "Kanalpromenade, Abschnitt 6 [Bike OUT]"
+            ],
+            [
+                353426360,
+                "Kanalpromenade, Abschnitt 6 [Bike OUT]"
+            ]
+        ]
+    },
+    {
+        "name": "Kinderhauser Str.",
+        "directory": "300037928",
+        "start": 2023,
+        "channels": [
+            [
+                300037928,
+                "Kinderhauser Str."
+            ],
+            [
+                353413835,
+                "Kinderhauser Str. [Bike Stadteinw\u00e4rts]"
+            ],
+            [
+                353413836,
+                "Kinderhauser Str. [Bike Stadtausw\u00e4rts]"
+            ]
+        ]
+    },
+    {
+        "name": "L\u00fctkenbecker Str.",
+        "directory": "300037920",
+        "start": 2023,
+        "channels": [
+            [
+                300037920,
+                "L\u00fctkenbecker Str."
+            ],
+            [
+                353413813,
+                "L\u00fctkenbecker Str. [Bike Stadteinw\u00e4rts]"
+            ],
+            [
+                353413814,
+                "L\u00fctkenbecker Str. [Bike Stadtausw\u00e4rts]"
             ]
         ]
     },
     {
         "name": "Neutor",
         "directory": "100035541",
-        "start": 2019,
+        "start": 2023,
         "channels": [
             [
                 100035541,
@@ -122,13 +368,13 @@
         ]
     },
     {
-        "name": "Promenade",
+        "name": "Promenade (n\u00f6rdl. Salzstra\u00dfe)",
         "directory": "100031297",
-        "start": 2019,
+        "start": 2023,
         "channels": [
             [
                 100031297,
-                "Promenade"
+                "Promenade (n\u00f6rdl. Salzstra\u00dfe)"
             ],
             [
                 101031297,
@@ -157,9 +403,63 @@
         ]
     },
     {
+        "name": "Promenade (westl. Hals)",
+        "directory": "300037405",
+        "start": 2023,
+        "channels": [
+            [
+                300037405,
+                "Promenade (westl. Hals)"
+            ],
+            [
+                353409612,
+                "Promenade (westl. Hals) Fahrr\u00e4der IN"
+            ],
+            [
+                353409613,
+                "Promenade (westl. Hals) Fahrr\u00e4der OUT"
+            ],
+            [
+                353426710,
+                "Promenade (westl. Hals) [Bike IN]"
+            ],
+            [
+                353426712,
+                "Promenade (westl. Hals) [Bike IN]"
+            ],
+            [
+                353426713,
+                "Promenade (westl. Hals) [Bike OUT]"
+            ],
+            [
+                353426715,
+                "Promenade (westl. Hals) [Bike OUT]"
+            ]
+        ]
+    },
+    {
+        "name": "Schmeddingstra\u00dfe",
+        "directory": "300037932",
+        "start": 2023,
+        "channels": [
+            [
+                300037932,
+                "Schmeddingstra\u00dfe"
+            ],
+            [
+                353413849,
+                "Schmeddingstra\u00dfe [Bike Stadteinw\u00e4rts]"
+            ],
+            [
+                353413850,
+                "Schmeddingstra\u00dfe [Bike Stadtausw\u00e4rts]"
+            ]
+        ]
+    },
+    {
         "name": "Warendorfer Stra\u00dfe",
         "directory": "100034983",
-        "start": 2019,
+        "start": 2023,
         "channels": [
             [
                 100034983,
@@ -176,9 +476,28 @@
         ]
     },
     {
+        "name": "Wei\u00dfenburg Str.",
+        "directory": "300037933",
+        "start": 2023,
+        "channels": [
+            [
+                300037933,
+                "Wei\u00dfenburg Str."
+            ],
+            [
+                353413852,
+                "Wei\u00dfenburg Str. [Bike Stadteinw\u00e4rts]"
+            ],
+            [
+                353413853,
+                "Wei\u00dfenburg Str. [Bike Stadtausw\u00e4rts]"
+            ]
+        ]
+    },
+    {
         "name": "Weseler Stra\u00dfe",
         "directory": "100034981",
-        "start": 2019,
+        "start": 2023,
         "channels": [
             [
                 100034981,
@@ -191,6 +510,25 @@
             [
                 102034981,
                 "Weseler Stra\u00dfe stadtausw\u00e4rts"
+            ]
+        ]
+    },
+    {
+        "name": "Wolbecker Stra\u00dfe",
+        "directory": "100020113",
+        "start": 2023,
+        "channels": [
+            [
+                100020113,
+                "Wolbecker Stra\u00dfe"
+            ],
+            [
+                101020113,
+                "FR stdteinw\u00e4rts"
+            ],
+            [
+                102020113,
+                "FR stadtausw\u00e4rts"
             ]
         ]
     }
