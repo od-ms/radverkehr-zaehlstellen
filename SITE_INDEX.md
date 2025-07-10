@@ -11,11 +11,25 @@ Die Daten stehen stehen unter der Lizenz 'Datenlizenz Deutschland Namensnennung 
 **Sie finden die Ergebnisse der folgenden Radverkehr-Zählstellen in den entsprechenden Unterverzeichnissen:**
 
  * [300038855](300038855) - Bismarckallee
-   * 353420516 - Bismarckallee Fahrräder IN
-   * 353420517 - Bismarckallee Fahrräder OUT
+   * 353420516 - Bismarckallee Fahrräder OUT
+   * 353420517 - Bismarckallee Fahrräder IN
  * [300037926](300037926) - Bohlweg
-   * 353413831 - Bohlweg [Bike Stadteinwärts]
-   * 353413832 - Bohlweg [Bike Stadtauswärts]
+   * 353413831 - Bohlweg Fahrräder Stadteinwärts
+   * 353413832 - Bohlweg Fahrräder Stadtauswärts
+   * 353484923 - Bohlweg Fahrräder Stadteinwärts
+   * 353484925 - Bohlweg Fahrräder Stadtauswärts
+   * 353484927 - Bohlweg Fahrräder Stadteinwärts
+   * 353484928 - Bohlweg Fahrräder Stadtauswärts
+   * 353484929 - Bohlweg Fahrräder Stadteinwärts
+   * 353484930 - Bohlweg Fahrräder Stadtauswärts
+   * 353485115 - Bohlweg PKW Stadteinwärts
+   * 353485118 - Bohlweg PKW Stadtauswärts
+   * 353485121 - Bohlweg PKW Stadteinwärts
+   * 353485123 - Bohlweg PKW Stadtauswärts
+   * 353485125 - Bohlweg PKW Stadteinwärts
+   * 353485126 - Bohlweg PKW Stadtauswärts
+   * 353485127 - Bohlweg PKW Stadteinwärts
+   * 353485128 - Bohlweg PKW Stadtauswärts
  * [300039328](300039328) - Coesfelder Kreuz
    * 353425081 - Coesfelder Kreuz Stadteinwärts
    * 353425082 - Coesfelder Kreuz Stadtauswärts
@@ -30,8 +44,8 @@ Die Daten stehen stehen unter der Lizenz 'Datenlizenz Deutschland Namensnennung 
    * 353426666 - Gasselstiege Fahrräder Stadtauswärts
    * 353426668 - Gasselstiege Fahrräder Stadtauswärts
  * [300037925](300037925) - Goldstraße
-   * 353413828 - Goldstraße [Bike Stadteinwärts]
-   * 353413829 - Goldstraße [Bike Stadtauswärts]
+   * 353413828 - Goldstraße Fahrräder Stadteinwärts
+   * 353413829 - Goldstraße Fahrräder Stadtauswärts
  * [300039331](300039331) - Grevener Straße
    * 353425091 - Grevener Straße Formel - Fahrräder Stadteinwärts
    * 353425097 - Grevener Straße Formel- Fahrräder Stadtauswärts
@@ -47,10 +61,10 @@ Die Daten stehen stehen unter der Lizenz 'Datenlizenz Deutschland Namensnennung 
  * [300037544](300037544) - Kanalpromenade, Abschnitt 1 (Dingstiege)
    * 353410966 - Kanalpromenade, Abschnitt 1 (Dingstiege) Fahrräder IN
    * 353410967 - Kanalpromenade, Abschnitt 1 (Dingstiege) Fahrräder OUT
-   * 353426657 - Kanalpromenade, Abschnitt 1 (Dingstiege) [Bike IN]
-   * 353426659 - Kanalpromenade, Abschnitt 1 (Dingstiege) [Bike IN]
-   * 353426660 - Kanalpromenade, Abschnitt 1 (Dingstiege) [Bike OUT]
-   * 353426662 - Kanalpromenade, Abschnitt 1 (Dingstiege) [Bike OUT]
+   * 353426657 - Kanalpromenade, Abschnitt 1 (Dingstiege) Fahrräder IN
+   * 353426659 - Kanalpromenade, Abschnitt 1 (Dingstiege) Fahrräder IN
+   * 353426660 - Kanalpromenade, Abschnitt 1 (Dingstiege) Fahrräder OUT
+   * 353426662 - Kanalpromenade, Abschnitt 1 (Dingstiege) Fahrräder OUT
  * [100053305](100053305) - Kanalpromenade, Abschnitt 5
    * 101053305 - Kanalpromenade, Abschnitt 5 Fahrräder Richtung Osttor
    * 102053305 - Kanalpromenade, Abschnitt 5 Fahrräder Richtung Zentrum
@@ -61,13 +75,13 @@ Die Daten stehen stehen unter der Lizenz 'Datenlizenz Deutschland Namensnennung 
  * [300037936](300037936) - Kanalpromenade, Abschnitt 6
    * 353413873 - Kanalpromenade, Abschnitt 6 Fahrräder Richtung Münster
    * 353413874 - Kanalpromenade, Abschnitt 6 Fahrräder Richtung Weg von Münster
-   * 353426355 - Kanalpromenade, Abschnitt 6 [Bike IN]
-   * 353426357 - Kanalpromenade, Abschnitt 6 [Bike IN]
-   * 353426358 - Kanalpromenade, Abschnitt 6 [Bike OUT]
-   * 353426360 - Kanalpromenade, Abschnitt 6 [Bike OUT]
+   * 353426355 - Kanalpromenade, Abschnitt 6 Fahrräder Richtung Münster
+   * 353426357 - Kanalpromenade, Abschnitt 6 Fahrräder Richtung Münster
+   * 353426358 - Kanalpromenade, Abschnitt 6 Fahrräder Richtung Weg von Münster
+   * 353426360 - Kanalpromenade, Abschnitt 6 Fahrräder Richtung Weg von Münster
  * [300037928](300037928) - Kinderhauser Str.
-   * 353413835 - Kinderhauser Str. [Bike Stadteinwärts]
-   * 353413836 - Kinderhauser Str. [Bike Stadtauswärts]
+   * 353413835 - Kinderhauser Str. Fahrräder Stadteinwärts
+   * 353413836 - Kinderhauser Str. Fahrräder Stadtauswärts
  * [300037920](300037920) - Lütkenbecker Str.
    * 353413813 - Lütkenbecker Str. [Bike Stadteinwärts]
    * 353413814 - Lütkenbecker Str. [Bike Stadtauswärts]
@@ -94,9 +108,9 @@ Die Daten stehen stehen unter der Lizenz 'Datenlizenz Deutschland Namensnennung 
  * [100034983](100034983) - Warendorfer Straße
    * 101034983 - Warendorfer Straße stadteinwärts
    * 102034983 - Warendorfer Straße stadtauswärts
- * [300037933](300037933) - Weißenburg Str.
-   * 353413852 - Weißenburg Str. [Bike Stadteinwärts]
-   * 353413853 - Weißenburg Str. [Bike Stadtauswärts]
+ * [300037933](300037933) - Weißenburgstraße
+   * 353413852 - Weißenburgstraße Fahrräder Stadteinwärts
+   * 353413853 - Weißenburgstraße Fahrräder Stadtauswärts
  * [100034981](100034981) - Weseler Straße
    * 101034981 - Weseler Straße stadteinwärts
    * 102034981 - Weseler Straße stadtauswärts
