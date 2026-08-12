@@ -70,6 +70,8 @@ Die Daten stehen stehen unter der Lizenz 'Datenlizenz Deutschland Namensnennung 
    * 102053305 - Kanalpromenade, Abschnitt 5 Fahrräder Richtung Zentrum
    * 103053305 - Kanalpromenade, Abschnitt 5 Fahrräder Richtung Osttor
    * 104053305 - Kanalpromenade, Abschnitt 5 Fahrräder Richtung Zentrum
+   * 353306594 - Kanalpromenade, Abschnitt 5 PKW
+   * 353306595 - Kanalpromenade, Abschnitt 5 PKW
    * 353306596 - Kanalpromenade, Abschnitt 5 Fahrräder Richtung Osttor
    * 353306597 - Kanalpromenade, Abschnitt 5 Fahrräder Richtung Zentrum
  * [300037936](300037936) - Kanalpromenade, Abschnitt 6
@@ -82,9 +84,9 @@ Die Daten stehen stehen unter der Lizenz 'Datenlizenz Deutschland Namensnennung 
  * [300037928](300037928) - Kinderhauser Str.
    * 353413835 - Kinderhauser Str. Fahrräder Stadteinwärts
    * 353413836 - Kinderhauser Str. Fahrräder Stadtauswärts
- * [300037920](300037920) - Lütkenbecker Str.
-   * 353413813 - Lütkenbecker Str. [Bike Stadteinwärts]
-   * 353413814 - Lütkenbecker Str. [Bike Stadtauswärts]
+ * [300037920](300037920) - Lütkenbecker Weg
+   * 353413813 - Lütkenbecker Weg Fahrräder Stadteinwärts
+   * 353413814 - Lütkenbecker Weg Fahrräder Stadtauswärts
  * [100035541](100035541) - Neutor
    * 101035541 - Neutor stadteinwärts
    * 102035541 - Neutor stadtauswärts
@@ -96,12 +98,12 @@ Die Daten stehen stehen unter der Lizenz 'Datenlizenz Deutschland Namensnennung 
    * 105031297 - Promenade Radfahrer FR Mauritztor
    * 106031297 - Promenade Radfahrer FR Salzstraße
  * [300037405](300037405) - Promenade (westl. Hals)
-   * 353409612 - Promenade (westl. Hals) Fahrräder IN
-   * 353409613 - Promenade (westl. Hals) Fahrräder OUT
-   * 353426710 - Promenade (westl. Hals) [Bike IN]
-   * 353426712 - Promenade (westl. Hals) [Bike IN]
-   * 353426713 - Promenade (westl. Hals) [Bike OUT]
-   * 353426715 - Promenade (westl. Hals) [Bike OUT]
+   * 353409612 - Promenade (westl. Hals) Fahrräder FR Ludgerikreisel
+   * 353409613 - Promenade (westl. Hals) Fahrräder FR Aasee
+   * 353426710 - Promenade (westl. Hals) Fahrräder FR Ludgerikreisel
+   * 353426712 - Promenade (westl. Hals) Fahrräder FR Ludgerikreisel
+   * 353426713 - Promenade (westl. Hals) Fahrräder FR Aasee
+   * 353426715 - Promenade (westl. Hals) Fahrräder FR Aasee
  * [300037932](300037932) - Schmeddingstraße
    * 353413849 - Schmeddingstraße [Bike Stadteinwärts]
    * 353413850 - Schmeddingstraße [Bike Stadtauswärts]
@@ -115,5 +117,5 @@ Die Daten stehen stehen unter der Lizenz 'Datenlizenz Deutschland Namensnennung 
    * 101034981 - Weseler Straße stadteinwärts
    * 102034981 - Weseler Straße stadtauswärts
  * [100020113](100020113) - Wolbecker Straße
-   * 101020113 - FR stdteinwärts
+   * 101020113 - FR stadteinwärts
    * 102020113 - FR stadtauswärts
